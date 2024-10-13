@@ -1,0 +1,70 @@
+
+section{
+    display: inline-block;
+    width: 300px;
+    vertical-align: top;
+    margin: 6px;
+}
+img{
+    width: 100%;
+    
+}
+hr{
+    color: azure;
+}
+h3{
+    font-size: 28px;
+    font-weight: 500;
+    margin: 8px 0px;
+    padding: 10px;
+
+
+
+}
+p{
+    font-size: 24px;
+    text-align: justify;
+    
+}
+main{
+    margin: 50px 115px;
+}
+*{
+ 
+    font-family: "Karma", serif;
+    margin: 0px;
+    padding: 0px;
+}
+header{
+    margin: 20px 20px;
+}
+.a1{
+    margin: 20px 20px;
+}
+h5{
+    font-size: 20px;
+    font-weight: 500;
+    margin: 8px 0px;
+    padding: 10px;
+
+
+}
+h4{
+    font-size: 28px;
+    font-weight: 500;
+    margin: 8px 0px;
+    padding: 10px;
+    text-align-last: center;
+    background-color: darkgray;
+}
+.a2{
+    margin-left: 1000px;
+    margin-right: 20px;
+ }
+
+ .a3,
+ .a4 {
+    margin-left: 20px;
+    margin-right: 20px;
+ }
+
